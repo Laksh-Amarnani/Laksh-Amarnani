@@ -17,3 +17,16 @@
 ---
 
 ## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=laksh_amarnani&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=laksh_amarnani&theme=tokyonight" />
+</p>
+
+## 🚀 Skills
+![Python](https://img.shields.io/badge/Python-blue?logo=python)
+![Java](https://img.shields.io/badge/Java-orange?logo=java)
+![Git](https://img.shields.io/badge/Git-black?logo=git)
