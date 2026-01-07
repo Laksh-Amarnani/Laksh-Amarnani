@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Laksh</h1>
+<h3 align="center">Computer Engineering Student | Tech Enthusiast</h3>
 
-<!--
-**Laksh-Amarnani/Laksh-Amarnani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🌱 Currently learning **Data Science & Web Development**  
+💻 Interested in **Python, Java, ML, Full-Stack**  
+🎯 Goal: Build strong projects & study abroad  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+- Languages: Python, Java, C
+- Web: HTML, CSS, JavaScript
+- Tools: Git, GitHub, VS Code, XAMPP
+
+---
+
+## 📊 GitHub Stats
